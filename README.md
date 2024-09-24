@@ -1,1 +1,1 @@
-
+Apple Website Clone built with React, focused on replicating the frontend design of Apple's homepage. Features include a responsive layout, product sections, and navigation. Only UI is implemented, with no backend functionality.
